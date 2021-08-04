@@ -13,12 +13,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout 🚧
 #### Desktop Screenshot
-<div>
-<!-- Responsive, 1366 x 768, 50% (Lenovo Ideapad 310)-->
-   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/inicio_jogo.png" width="400px">
-   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/jogo_iniciado.png" width="400px">
-   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/partida.png" width="400px">
-</div>
+
+https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/inicio_jogo.png 
+https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/jogo_iniciado.png" 
+https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/partida.png" 
+
 
 ### Como jogar? 🕹
 Você controla um helicóptero e seu objetivo é salvar seu parceiro e ganhar o máximo de pontos possíveis ô salvando e destruindo os inimigos pela frente.
