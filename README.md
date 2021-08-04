@@ -1,26 +1,6 @@
-<h4 align="center">
-  <br>
-    <img src="./.github/logo-AirWar.svg" width="150" heigh="150" alt="Logo">
-</h4>
-<p align="center">
-  <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=ff3900&labelColor=fff">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/TheDangerousRescue-AirWar?color=ff3900&labelColor=fff">
-  <a href="https://github.com/NyctibiusVII/TheDangerousRescue-AirWar/blob/master/LICENSE">
-    <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=ff3900&labelColor=fff">
-  </a>
-  <a href="https://picpay.me/Matheus_nyctibius_vii">
-  <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=ff3900&labelColor=fff">
-  </a>
-</p>
-<p align="center">
-  <a href="#thedangerousrescue-airwar-%EF%B8%8F">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença-%EF%B8%8F">Licença</a>
-</p>
 
-# TheDangerousRescue-AirWar 🏃🏻‍♂️🚁
-Projeto desenvolvido para a conclusão do curso **Construindo o seu primeiro jogo de naves**. @DigitalInnovationOne.
+# Projeto realizado no Bootcamp Java Game Developer na Digital Innovation One 🏃🏻‍♂️🚁
+Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
 
 
 ## Tecnologias 🚀
@@ -35,19 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### Desktop Screenshot
 <div>
 <!-- Responsive, 1366 x 768, 50% (Lenovo Ideapad 310)-->
-   <img src="./.github/desktop-AirWar-1.png" width="400px">
-   <img src="./.github/desktop-AirWar-2.png" width="400px">
+   <img src="./.github/desktop-inicio_jogo.png" width="400px">
+   <img src="./.github/desktop-jogo_iniciado.png" width="400px">
+   <img src="./.github/desktop-partida.png" width="400px">
 </div>
-
-#### Mobile Screenshot
-<div>
-<!-- Responsive, 360 x 720, 50% (Moto G6 Play)-->
-   <img src="./.github/mobile-AirWar-1.png" width="180">
-   <img src="./.github/mobile-AirWar-2.png" width="180">
-   <img src="./.github/mobile-AirWar-3.png" width="180">
-</div>
-
-##### Obs: As bordas estão ativas para melhorar a nossa identificação da colisão como programadores. caso queira retirar basta ir ./styles/index.css, linha 167 na parte " /* Collision visualization */ " e remover.
 
 ### Como jogar? 🕹
 Você controla um helicóptero e seu objetivo é salvar seu parceiro e ganhar o máximo de pontos possíveis ô salvando e destruindo os inimigos pela frente.
@@ -75,22 +46,16 @@ Você controla um helicóptero e seu objetivo é salvar seu parceiro e ganhar o 
 **Fim?**: Não existe fim até que voçê perca.
 
 #### Desktop 💻✔
-Helicóptero controlado por 'setinhas': cima ↑, direita → e baixo ↓. Cima e Baixo são para movimentação e Direita para atirar.
-
-Disponível em breve no formato 'W, S, A, D'.
+Helicóptero controlado no formato 'W, S, D'.  Use D para atirar.
 
 #### Mobile 📱❌
 *Não disponível*
 
 ## Rodando o projeto 🚴🏻‍♂️
-#### "Só vou dar uma olhadinha...":
-  <a href="https://the-dangerous-rescue-air-war.vercel.app/">🚁 Site hospedado na Vercel 🚁</a>
-
-#### Na sua maquina:
-
-```bash
 
 # Clone o repositório
+$ https://github.com/Cleython-Enginner/jogo-nave-dio
+#### Projeto original modificado
 $ git clone https://github.com/NyctibiusVII/TheDangerousRescue-AirWar.git
 
 # Acesse a pasta do projeto no seu console
@@ -117,18 +82,4 @@ Para construir essa aplicação tive a ajuda do professor **Denilson Bonatti** d
 
 Se você esta querendo ajudar no projeto não deixe se 'forka', fazer suas alterações e dar pull 🎉. Eu ja agradeço muito por você esta aqui visualizando e lendo isso... Obrigado 🧡
 
-## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/TheDangerousRescue-AirWar/blob/master/LICENSE) para mais detalhes.
 
-## Contato ✉️
-| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
-| :---: |
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-fff?style=flat&logo=Linkedin&logoColor=000" />
-   </a>
-   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-ff3900?style=flat&logo=Gmail&logoColor=fff" />
-   </a>
-</p>
