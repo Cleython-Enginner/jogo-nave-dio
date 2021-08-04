@@ -15,9 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### Desktop Screenshot
 <div>
 <!-- Responsive, 1366 x 768, 50% (Lenovo Ideapad 310)-->
-   <img src="./.github/desktop-inicio_jogo.png" width="400px">
-   <img src="./.github/desktop-jogo_iniciado.png" width="400px">
-   <img src="./.github/desktop-partida.png" width="400px">
+   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/inicio_jogo.png" width="400px">
+   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/jogo_iniciado.png" width="400px">
+   <img src="./https://github.com/Cleython-Enginner/jogo-nave-dio/blob/main/.github/partida.png" width="400px">
 </div>
 
 ### Como jogar? 🕹
